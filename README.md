@@ -1,6 +1,5 @@
 # ATM System
-The goal of human posture estimation is to infer the posture information of the human body in three-dimensional space based on image or video data, including bone structure, joint angle and body parts. 
-Using an ML model to estimate the spatial locations of key body joints is the basis of many computer vision tasks, such as action classification, abnormal behaviour detection, and automatic driving.
+The java program developed here is to implement ATM Bank functionality. The user can create an account, check,  deposit money, withdraw, and also search account.
 
 
 ## Installation instructions

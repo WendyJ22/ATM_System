@@ -1,5 +1,5 @@
 # ATM System
-The java program developed here is to implement ATM Bank functionality. The user can create an account, check,  deposit money, withdraw, and also search account.
+The java program developed here is to implement ATM Bank functionality. The user can create an account, check,  deposit money, withdraw, and also search account with the system.
 
 
 ## Installation instructions

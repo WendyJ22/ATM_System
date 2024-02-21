@@ -27,7 +27,7 @@ The java program developed here is to implement ATM Bank functionality. The user
 ## Training
 
 ### Network Architecture
-![image_name](https://github.com/WendyJ22/Pose_Estimation/blob/main/readme/architecture.png)
+![image_name](https://github.com/WendyJ22/ATM_System/blob/main/README/Servlet.png)
 
 ### Training Steps 
 - Two stages, each stage has two branches: the first branch outputs 18 feature maps, representing 18 human body key points and background respectively; the second branch has 38 feature maps, representing PAF (_Part Affinity Fields_), the connection between the joint and the previous joint.
